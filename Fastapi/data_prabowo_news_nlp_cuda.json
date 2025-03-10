@@ -1,0 +1,552 @@
+{
+    "keyword": "prabowo",
+    "total_items": 70,
+    "sentiment_summary": {
+        "Positif": {
+            "count": 0,
+            "percentage": 0.0,
+            "examples": []
+        },
+        "Negatif": {
+            "count": 0,
+            "percentage": 0.0,
+            "examples": []
+        },
+        "Netral": {
+            "count": 70,
+            "percentage": 100.0,
+            "examples": [
+                {
+                    "source": "Detik",
+                    "category": "Terpopuler",
+                    "text": "MenPAN-RB Lapor ke Prabowo Pengangkatan CASN Mundur, Nanti Ada Inpres"
+                },
+                {
+                    "source": "Detik",
+                    "category": "Otomotif",
+                    "text": "Prabowo soal Bonus Hari Raya buat Ojol dan Kurir: Bentuknya Uang Tunai"
+                },
+                {
+                    "source": "Detik",
+                    "category": "Otomotif",
+                    "text": "Prabowo soal Bonus Hari Raya buat Ojol dan Kurir: Bentuknya Uang Tunai"
+                }
+            ]
+        }
+    },
+    "source_distribution": {
+        "Detik": 33,
+        "CNN Indonesia": 9,
+        "Tribunnews": 5,
+        "Liputan6": 4,
+        "Okezone": 1,
+        "Suara": 10,
+        "Viva": 6,
+        "Antara News": 1,
+        "Bisnis.com": 1
+    },
+    "category_distribution": {
+        "Terpopuler": 2,
+        "Otomotif": 3,
+        "Ekonomi": 39,
+        "Teknologi": 3,
+        "Hiburan": 13,
+        "News": 2,
+        "Politik": 5,
+        "Olahraga": 1,
+        "Berita": 1,
+        "Nasional": 1
+    },
+    "detailed_results": [
+        {
+            "source": "Detik",
+            "category": "Terpopuler",
+            "text": "MenPAN-RB Lapor ke Prabowo Pengangkatan CASN Mundur, Nanti Ada Inpres",
+            "sentiment": "Netral",
+            "score": 0.5213375091552734
+        },
+        {
+            "source": "Detik",
+            "category": "Otomotif",
+            "text": "Prabowo soal Bonus Hari Raya buat Ojol dan Kurir: Bentuknya Uang Tunai",
+            "sentiment": "Netral",
+            "score": 0.5105257630348206
+        },
+        {
+            "source": "Detik",
+            "category": "Otomotif",
+            "text": "Prabowo soal Bonus Hari Raya buat Ojol dan Kurir: Bentuknya Uang Tunai",
+            "sentiment": "Netral",
+            "score": 0.5105257630348206
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "Ikut Perintah Prabowo, Grab Beberkan Skema Bonus Hari Raya buat Driver",
+            "sentiment": "Netral",
+            "score": 0.5051034092903137
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "MenPAN-RB Lapor ke Prabowo Pengangkatan CASN Mundur, Nanti Ada Inpres",
+            "sentiment": "Netral",
+            "score": 0.5213375091552734
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "Kapan THR PNS, TNI/Polri Cair? Ini Jawaban Prabowo",
+            "sentiment": "Netral",
+            "score": 0.5027655959129333
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "Prabowo Minta Aplikator Beri Bonus Hari Raya Tunai ke Driver Ojol",
+            "sentiment": "Netral",
+            "score": 0.5011336207389832
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "Prabowo Perintahkan THR Swasta-BUMN Cair Paling Lambat H-7 Lebaran",
+            "sentiment": "Netral",
+            "score": 0.5089768171310425
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "Ikut Perintah Prabowo, Grab Beberkan Skema Bonus Hari Raya buat Driver",
+            "sentiment": "Netral",
+            "score": 0.5051034092903137
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "Video Prabowo Pastikan THR ASN 2025 Sudah Diatur",
+            "sentiment": "Netral",
+            "score": 0.5116414427757263
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "MenPAN-RB Lapor ke Prabowo Pengangkatan CASN Mundur, Nanti Ada Inpres",
+            "sentiment": "Netral",
+            "score": 0.5213375091552734
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "Kapan THR PNS, TNI/Polri Cair? Ini Jawaban Prabowo",
+            "sentiment": "Netral",
+            "score": 0.5027655959129333
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "Prabowo Minta Aplikator Beri Bonus Hari Raya Tunai ke Driver Ojol",
+            "sentiment": "Netral",
+            "score": 0.5011336207389832
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "Prabowo Perintahkan THR Swasta-BUMN Cair Paling Lambat H-7 Lebaran",
+            "sentiment": "Netral",
+            "score": 0.5089768171310425
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "7 Stimulus Ekonomi Prabowo di Bulan Puasa dan Lebaran",
+            "sentiment": "Netral",
+            "score": 0.5175923705101013
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "Ikut Perintah Prabowo, Grab Beberkan Skema Bonus Hari Raya buat Driver",
+            "sentiment": "Netral",
+            "score": 0.5051034092903137
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "Prabowo Minta Aplikator Beri Bonus Hari Raya Tunai ke Driver Ojol",
+            "sentiment": "Netral",
+            "score": 0.5011336207389832
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "Prabowo Perintahkan THR Swasta-BUMN Cair Paling Lambat H-7 Lebaran",
+            "sentiment": "Netral",
+            "score": 0.5089768171310425
+        },
+        {
+            "source": "Detik",
+            "category": "Ekonomi",
+            "text": "MenPAN-RB Lapor ke Prabowo Pengangkatan CASN Mundur, Nanti Ada Inpres",
+            "sentiment": "Netral",
+            "score": 0.5213375091552734
+        },
+        {
+            "source": "Detik",
+            "category": "Teknologi",
+            "text": "Ramai Akun Penipuan 'Prabowo Berbagi Berkah', TikTok Bertindak",
+            "sentiment": "Netral",
+            "score": 0.5132202506065369
+        },
+        {
+            "source": "Detik",
+            "category": "Teknologi",
+            "text": "Ramai Akun Penipuan 'Prabowo Berbagi Berkah', TikTok Bertindak",
+            "sentiment": "Netral",
+            "score": 0.5132202506065369
+        },
+        {
+            "source": "Detik",
+            "category": "Hiburan",
+            "text": "Imbauan Prabowo untuk Bonus Hari Raya Ojol",
+            "sentiment": "Netral",
+            "score": 0.5099685192108154
+        },
+        {
+            "source": "Detik",
+            "category": "Hiburan",
+            "text": "Video Prabowo Sambut Kunjungan Sekjen Partai Komunis Vietnam di Istana",
+            "sentiment": "Netral",
+            "score": 0.521045982837677
+        },
+        {
+            "source": "Detik",
+            "category": "Hiburan",
+            "text": "Video Prabowo Sambut Kunjungan Sekjen Partai Komunis Vietnam di Istana",
+            "sentiment": "Netral",
+            "score": 0.521045982837677
+        },
+        {
+            "source": "Detik",
+            "category": "Hiburan",
+            "text": "Video Keponakan Ungkap Sifat Prabowo saat Dinner Keluarga: Banyak Guyon",
+            "sentiment": "Netral",
+            "score": 0.5187436938285828
+        },
+        {
+            "source": "Detik",
+            "category": "Hiburan",
+            "text": "Video: Prabowo Bertemu Pengusaha Kakap, Ada Aguan hingga Tomy Winata",
+            "sentiment": "Netral",
+            "score": 0.5123883485794067
+        },
+        {
+            "source": "Detik",
+            "category": "Hiburan",
+            "text": "Video CEO GOTO-Menaker Temui Prabowo di Istana, Bahas THR Ojol?",
+            "sentiment": "Netral",
+            "score": 0.5092639327049255
+        },
+        {
+            "source": "Detik",
+            "category": "Hiburan",
+            "text": "Video Prabowo Imbau Aplikator Beri Bonus Hari Raya ke Ojol Secara Tunai",
+            "sentiment": "Netral",
+            "score": 0.5036179423332214
+        },
+        {
+            "source": "Detik",
+            "category": "Hiburan",
+            "text": "Video Prabowo Pastikan THR ASN 2025 Sudah Diatur",
+            "sentiment": "Netral",
+            "score": 0.5116414427757263
+        },
+        {
+            "source": "Detik",
+            "category": "Hiburan",
+            "text": "Video Prabowo Pastikan THR ASN 2025 Sudah Diatur",
+            "sentiment": "Netral",
+            "score": 0.5116414427757263
+        },
+        {
+            "source": "Detik",
+            "category": "Hiburan",
+            "text": "Video Prabowo Imbau Aplikator Beri Bonus Hari Raya ke Ojol Secara Tunai",
+            "sentiment": "Netral",
+            "score": 0.5036179423332214
+        },
+        {
+            "source": "Detik",
+            "category": "Hiburan",
+            "text": "Video Chairul Tanjung Ungkap Isi Pertemuan Prabowo-Ray Dalio di Istana",
+            "sentiment": "Netral",
+            "score": 0.517401933670044
+        },
+        {
+            "source": "Detik",
+            "category": "Hiburan",
+            "text": "Video Rahayu Gerindra Sebut Danantara Impian Ayah Prabowo",
+            "sentiment": "Netral",
+            "score": 0.5016776919364929
+        },
+        {
+            "source": "CNN Indonesia",
+            "category": "Ekonomi",
+            "text": "Manut Prabowo, Gojek Beri Uang Tunai Buat Bonus Hari Raya Driver Ojol",
+            "sentiment": "Netral",
+            "score": 0.5009891986846924
+        },
+        {
+            "source": "CNN Indonesia",
+            "category": "Ekonomi",
+            "text": "Sambut Arahan Prabowo, Ojol Minta Bonus Hari Raya Minimal Rp500 Ribu",
+            "sentiment": "Netral",
+            "score": 0.50697922706604
+        },
+        {
+            "source": "CNN Indonesia",
+            "category": "Ekonomi",
+            "text": "Prabowo Minta Gojek-Grab Beri Bonus Hari Raya 'Cash' Buat Ojol",
+            "sentiment": "Netral",
+            "score": 0.5050045847892761
+        },
+        {
+            "source": "CNN Indonesia",
+            "category": "Ekonomi",
+            "text": "7 Stimulus Lebaran era Prabowo: Diskon Tarif Tol hingga Percepatan THR",
+            "sentiment": "Netral",
+            "score": 0.5143916606903076
+        },
+        {
+            "source": "CNN Indonesia",
+            "category": "Ekonomi",
+            "text": "Manut Prabowo, Gojek Beri Uang Tunai Buat Bonus Hari Raya Driver Ojol",
+            "sentiment": "Netral",
+            "score": 0.5009891986846924
+        },
+        {
+            "source": "CNN Indonesia",
+            "category": "Ekonomi",
+            "text": "Sambut Arahan Prabowo, Ojol Minta Bonus Hari Raya Minimal Rp500 Ribu",
+            "sentiment": "Netral",
+            "score": 0.50697922706604
+        },
+        {
+            "source": "CNN Indonesia",
+            "category": "Ekonomi",
+            "text": "Prabowo Minta Gojek-Grab Beri Bonus Hari Raya 'Cash' Buat Ojol",
+            "sentiment": "Netral",
+            "score": 0.5050045847892761
+        },
+        {
+            "source": "CNN Indonesia",
+            "category": "Ekonomi",
+            "text": "Prabowo Minta THR Swasta, BUMN, BUMD Cair Paling Telat H-7 Lebaran",
+            "sentiment": "Netral",
+            "score": 0.5022250413894653
+        },
+        {
+            "source": "CNN Indonesia",
+            "category": "Ekonomi",
+            "text": "Bos GoTo Patrick Walujo Dipanggil Prabowo ke Istana, Bahas THR Ojol?",
+            "sentiment": "Netral",
+            "score": 0.5033174753189087
+        },
+        {
+            "source": "Tribunnews",
+            "category": "Ekonomi",
+            "text": "Presiden Prabowo Inginkan THR dan Kurir Driver Ojek Online Dibayar Tunai",
+            "sentiment": "Netral",
+            "score": 0.5086846351623535
+        },
+        {
+            "source": "Tribunnews",
+            "category": "Ekonomi",
+            "text": "Sri Mulyani Ungkap Tanggapan Prabowo Soal THR untuk ASN",
+            "sentiment": "Netral",
+            "score": 0.5051553845405579
+        },
+        {
+            "source": "Tribunnews",
+            "category": "Ekonomi",
+            "text": "Prabowo Sarankan Gojek Cs Beri Bonus THR ke Driver Berdasar Keaktifan Kerja",
+            "sentiment": "Netral",
+            "score": 0.5041211247444153
+        },
+        {
+            "source": "Tribunnews",
+            "category": "Ekonomi",
+            "text": "Ajak Driver Ojol, Bos GOTO Patrick Walujo Temui Prabowo di Istana, Bahas THR?",
+            "sentiment": "Netral",
+            "score": 0.5046287775039673
+        },
+        {
+            "source": "Tribunnews",
+            "category": "Ekonomi",
+            "text": "2 Menteri Prabowo Beda Sikap Lihat Masyarakat Dicurangi Minyakita, Kemasan 1 L Tapi Berisi 750 Ml",
+            "sentiment": "Netral",
+            "score": 0.5094172358512878
+        },
+        {
+            "source": "Liputan6",
+            "category": "News",
+            "text": "Prabowo Beri Angin Segar Pengemudi Ojol Jelang Lebaran, THR Segera Cair?",
+            "sentiment": "Netral",
+            "score": 0.5041322708129883
+        },
+        {
+            "source": "Liputan6",
+            "category": "News",
+            "text": "Prabowo: Pemberian Bonus Hari Raya untuk Ojol Pertimbangkan Keaktifan Pekerja",
+            "sentiment": "Netral",
+            "score": 0.5169381499290466
+        },
+        {
+            "source": "Liputan6",
+            "category": "Politik",
+            "text": "Kader PSI Siap Awasi dan Dukung Kebijakan Pemerintahan Prabowo: Mari Kesampingkan Perbedaa...",
+            "sentiment": "Netral",
+            "score": 0.5008552670478821
+        },
+        {
+            "source": "Liputan6",
+            "category": "Ekonomi",
+            "text": "Prabowo Umumkan Ojol hingga Kurir Online Dapat THR, Begini Respons Gojek",
+            "sentiment": "Netral",
+            "score": 0.5132856369018555
+        },
+        {
+            "source": "Okezone",
+            "category": "Ekonomi",
+            "text": "Ini Pembicaraan Tomy Winata dengan Prabowo Usai Merapat ke Istana",
+            "sentiment": "Netral",
+            "score": 0.5165200233459473
+        },
+        {
+            "source": "Suara",
+            "category": "Terpopuler",
+            "text": "Dear Prabowo, George Soros Mulai Acak-acak Ekonomi RI Lagi Lewat Investor Asing, Waspada!",
+            "sentiment": "Netral",
+            "score": 0.5056419372558594
+        },
+        {
+            "source": "Suara",
+            "category": "Otomotif",
+            "text": "Dear Prabowo, George Soros Mulai Acak-acak Ekonomi RI Lagi Lewat Investor Asing, Waspada!",
+            "sentiment": "Netral",
+            "score": 0.5056419372558594
+        },
+        {
+            "source": "Suara",
+            "category": "Politik",
+            "text": "Dear Prabowo, George Soros Mulai Acak-acak Ekonomi RI Lagi Lewat Investor Asing, Waspada!",
+            "sentiment": "Netral",
+            "score": 0.5056419372558594
+        },
+        {
+            "source": "Suara",
+            "category": "Ekonomi",
+            "text": "Sosok Franky Widjaja: Pengusaha Kelapa Sawit dan Hubungannya dengan Prabowo",
+            "sentiment": "Netral",
+            "score": 0.5113378763198853
+        },
+        {
+            "source": "Suara",
+            "category": "Ekonomi",
+            "text": "Tomy Winata Bocorkan Isi Pertemuan dengan Prabowo: Fokus Atasi PHK Lewat Ini!",
+            "sentiment": "Netral",
+            "score": 0.5025255084037781
+        },
+        {
+            "source": "Suara",
+            "category": "Ekonomi",
+            "text": "Dear Prabowo, George Soros Mulai Acak-acak Ekonomi RI Lagi Lewat Investor Asing, Waspada!",
+            "sentiment": "Netral",
+            "score": 0.5056419372558594
+        },
+        {
+            "source": "Suara",
+            "category": "Ekonomi",
+            "text": "Dear Prabowo, George Soros Mulai Acak-acak Ekonomi RI Lagi Lewat Investor Asing, Waspada!",
+            "sentiment": "Netral",
+            "score": 0.5056419372558594
+        },
+        {
+            "source": "Suara",
+            "category": "Olahraga",
+            "text": "Dear Prabowo, George Soros Mulai Acak-acak Ekonomi RI Lagi Lewat Investor Asing, Waspada!",
+            "sentiment": "Netral",
+            "score": 0.5056419372558594
+        },
+        {
+            "source": "Suara",
+            "category": "Teknologi",
+            "text": "Dear Prabowo, George Soros Mulai Acak-acak Ekonomi RI Lagi Lewat Investor Asing, Waspada!",
+            "sentiment": "Netral",
+            "score": 0.5056419372558594
+        },
+        {
+            "source": "Suara",
+            "category": "Hiburan",
+            "text": "Dear Prabowo, George Soros Mulai Acak-acak Ekonomi RI Lagi Lewat Investor Asing, Waspada!",
+            "sentiment": "Netral",
+            "score": 0.5056419372558594
+        },
+        {
+            "source": "Viva",
+            "category": "Berita",
+            "text": "Prabowo Sambut Sekjen Partai Komunis Vietnam To Lam di Istana",
+            "sentiment": "Netral",
+            "score": 0.5191755294799805
+        },
+        {
+            "source": "Viva",
+            "category": "Politik",
+            "text": "Langkah Politik Prabowo Mau Bikin Koperasi Desa Merah Putih Dinilai Sudah Tepat",
+            "sentiment": "Netral",
+            "score": 0.5090761184692383
+        },
+        {
+            "source": "Viva",
+            "category": "Politik",
+            "text": "Hashim Bocorkan Hasil Pertemuan dengan Jokowi di Solo: Bawa Pesan dari Prabowo",
+            "sentiment": "Netral",
+            "score": 0.5100118517875671
+        },
+        {
+            "source": "Viva",
+            "category": "Politik",
+            "text": "Adik Prabowo Temui Jokowi di Solo, Projo: Ketemu Kawan Lama Masa Nggak Boleh?",
+            "sentiment": "Netral",
+            "score": 0.5146277546882629
+        },
+        {
+            "source": "Viva",
+            "category": "Ekonomi",
+            "text": "Prabowo Minta THR Swasta hingga BUMN Paling Lambat Cair H-7 Lebaran",
+            "sentiment": "Netral",
+            "score": 0.500137209892273
+        },
+        {
+            "source": "Viva",
+            "category": "Ekonomi",
+            "text": "Prabowo Minta THR Swasta hingga BUMN Paling Lambat Cair H-7 Lebaran",
+            "sentiment": "Netral",
+            "score": 0.500137209892273
+        },
+        {
+            "source": "Antara News",
+            "category": "Nasional",
+            "text": "Presiden Prabowo terima kunjungan Sekjen PKV To Lam di Istana Merdeka",
+            "sentiment": "Netral",
+            "score": 0.5167109966278076
+        },
+        {
+            "source": "Bisnis.com",
+            "category": "Ekonomi",
+            "text": "Tok! Prabowo Perintahkan THR Swasta, BUMN & BUMD Cair H-7 Lebaran",
+            "sentiment": "Netral",
+            "score": 0.500142514705658
+        }
+    ]
+}
